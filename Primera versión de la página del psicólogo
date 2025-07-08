@@ -1,0 +1,126 @@
+index.html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Psicóloga María López</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin:0; padding:0; background:#f5f7fa; }
+    header { background:#4A90E2; color:white; text-align:center; padding:2rem 1rem; }
+    section { padding:2rem; max-width:800px; margin:auto; background:white; }
+    h2 { color:#4A90E2; }
+    .btn-whatsapp {
+      background:#25D366; color:white; padding:1rem;
+      text-align:center; display:block; margin:2rem auto;
+      width:fit-content; border-radius:8px; text-decoration:none;
+      font-weight:bold;
+    }
+    footer { text-align:center; padding:1rem; background:#eaeaea; font-size:0.9rem; }
+  </style>
+</head>
+<body>
+<header>
+  <h1>Psicóloga María López</h1>
+  <p>Atención psicológica online y presencial</p>
+</header>
+
+<section>
+  <h2>Sobre mí</h2>
+  <p>Soy psicóloga especializada en ansiedad, estrés, terapia familiar y acompañamiento emocional.</p>
+
+  <h2>Servicios</h2>
+  <ul>
+    <li>Terapia individual</li>
+    <li>Terapia de pareja</li>
+    <li>Terapia para adolescentes</li>
+    <li>Consultas online</li>
+  </ul>
+
+  <h2>Horarios de Atención</h2>
+  <p>Lunes a Viernes de 9:00 a.m. a 6:00 p.m. (Hora Perú)</p>
+
+  <a href="https://wa.me/51999999999" class="btn-whatsapp" target="_blank">
+    Reservar cita por WhatsApp
+  </a>
+</section>
+
+<footer>
+  &copy; 2025 Psicóloga María López. Todos los derechos reservados.
+</footer>
+</body>0
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
